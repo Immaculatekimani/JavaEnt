@@ -10,4 +10,8 @@ public class SmartPhone extends ElectronicDevice{
     public void makeCall(){
         System.out.println("A call is in progress");
     }
+
+    public void makeCall(String callerName){
+        System.out.println("You are calling "+ callerName);
+    }
 }
