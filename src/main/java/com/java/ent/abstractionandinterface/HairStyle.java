@@ -1,4 +1,4 @@
-package com.java.ent.abstraction;
+package com.java.ent.abstractionandinterface;
 
 public abstract class HairStyle {
     private String styleName;
